@@ -1,0 +1,14 @@
+# Carpetas que genera .NET al compilar (no se suben a GitHub)
+bin/
+obj/
+
+# Configuraciones locales de Visual Studio
+.vs/
+*.user
+*.suo
+
+# Archivos de configuracion que pueden tener datos privados
+appsettings.Development.json
+
+# Node modules si hubiera frontend
+node_modules/
